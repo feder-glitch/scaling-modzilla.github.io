@@ -8,7 +8,7 @@
          <link href="styles/style.css" rel="stylesheet" type="text/css">   
          
                   <body>
-            >Da Vinci code</h1>
+           
                  <img src="http://samui-art-gallery.com/wp-content/uploads/2011/02/Leonardo_Da-Vinci-img1.jpg">lL PAPA
 
             <p>Der Mann</p>
