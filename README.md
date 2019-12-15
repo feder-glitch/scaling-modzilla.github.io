@@ -8,9 +8,9 @@
                   <body>
           
             <h1>Da Vinci code</h1>
-                 <img src="http://samui-art-gallery.com/wp-content/uploads/2011/02/Leonardo_Da-Vinci-img1.jpg">lL PAPA  </img>
+                 <img src="http://samui-art-gallery.com/wp-content/uploads/2011/02/Leonardo_Da-Vinci-img1.jpg">lL PAPA
               
-            <p>Der Mann</p>
+            <p>Der Mann mit</p>
          <ul>
              <li>unerreichter Blühte</li>
              <li>magischen Fähigkeiten</li>
