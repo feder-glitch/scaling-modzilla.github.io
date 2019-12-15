@@ -1,4 +1,3 @@
-<!DOCTYPE  html>
 <html>
          <head>
               <meta charset="utf-8">  
@@ -14,7 +13,7 @@
          <ul>
              <li>unerreichter Blühte</li>
              <li>magischen Fähigkeiten</li>
-             <li>unerschütterlicher Geist</li>
+             <li>unerschütterlichem Geist</li>
              <p>,der Alles schaffte </p>         
                 </ul>    
               
