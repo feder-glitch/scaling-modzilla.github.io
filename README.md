@@ -2,7 +2,7 @@
 <html>
          <head>
               <meta charset="utf-8">  
-            <title> Da Vinci </title>      
+            <title>Da Vinci</title>      
             <link href="styles/style.css" rel="stylesheet" type="text/css">        
          </head>  
              <body>
