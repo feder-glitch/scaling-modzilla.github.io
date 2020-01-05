@@ -3,9 +3,9 @@
          <head>
               <meta charset="utf-8">  
             <title> Da Vinci </title>    
-                  
+            <link href="Styles-Ordner/styles.css" rel="stylesheet" type="text/css">      
          </head>    
-         <link href="Styles-Ordner/styles.css" rel="stylesheet" type="text/css">               
+                      
                   <body>
           
             <h1>Da Vinci code</h1>
