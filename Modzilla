@@ -3,13 +3,13 @@
          <head>
               <meta charset="utf-8">  
             <title> Da Vinci </title>    
-                  
+            <link href="Styles-Ordner/styles.css" rel="stylesheet" type="text/css">      
          </head>    
-         <link href="Styles-Ordner/styles.css" rel="stylesheet" type="text/css">               
+                      
                   <body>
           
             <h1>Da Vinci code</h1>
-                 <img src="\Users\Federico\Desktop\erste.website\Bilder-Ordner\Leonardo_Da-Vinci-img1[1].jpg">lL PAPA 
+                 <img src="http://samui-art-gallery.com/wp-content/uploads/2011/02/Leonardo_Da-Vinci-img1.jpg">lL PAPA
               
             <p>Der Mann</p>
          <ul>
