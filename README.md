@@ -2,14 +2,14 @@
 <html>
          <head>
               <meta charset="utf-8">  
-            <title> Da Vinci </title>  
+            <title> Da Vinci </title>      
+            <link href="styles/style.css" rel="stylesheet" type="text/css">        
          </head>  
-         <link href="styles/style.css" rel="stylesheet" type="text/css">                 
-                  <body
-            >Da Vinci code</h1>
-                 <img src="http://samui-art-gallery.com/wp-content/uploads/2011/02/Leonardo_Da-Vinci-img1.jpg">lL PAPA
-
-            <p>Der Mann</p>
+             <body>
+            <h1>Da Vinci code</h1>
+                 <img src="http://samui-art-gallery.com/wp-content/uploads/2011/02/Leonardo_Da-Vinci-img1.jpg">IL PAPA
+                      
+                      <p>Der Mann</p>
          <ul>
 
              <li>unerreichter Blühte</li>
@@ -19,6 +19,6 @@
              <p>,der Alles schaffte </p>         
                 </ul>
                  </body>
-                 <h1>Da Vinci code</h1>
+              
                   
 </html>
