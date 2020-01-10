@@ -6,5 +6,8 @@ p {
 body {
     background-color: salmon;
 }
-h1 {
-    font: Arial 600 40px normal}
+h1 { 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+    font-weight: 600;
+    font-style: bold}
