@@ -1,3 +1,10 @@
 p {
-  color: red;
+  color: red
+  
 }
+
+body {
+    background-color: salmon;
+}
+h1 {
+    font: Arial 600 40px normal}
