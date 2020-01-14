@@ -1,7 +1,17 @@
-p {
-  color: blue;
-<<<<<<< HEAD
+body {
+    background-color: salmon;
 }
-=======
+
+h1 {
+    font-family: 'Courier New', Courier, serif;
+    font-style: normal;
+    font-size: 100px;
+    font-weight: bolder; 
 }
->>>>>>> fefb75df48004bf800855bebe9a0bf4ba6e88690
+
+p{
+    text-indent: 40px;
+    text-align: left;
+    text-decoration: burlywood;
+    text-transform: capitalize;
+}
