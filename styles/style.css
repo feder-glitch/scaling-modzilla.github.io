@@ -1,13 +1,7 @@
 p {
-  color: red
-  
+  color: red  
 }
 
 body {
     background-color: salmon;
 }
-h1 { 
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 40px;
-    font-weight: 600;
-    font-style: bold}
