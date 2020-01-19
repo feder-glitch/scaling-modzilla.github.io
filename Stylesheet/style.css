@@ -1,0 +1,36 @@
+<<<<<<< HEAD
+body {
+    background-color: salmon;
+}
+
+h1 {
+    font-family: 'Courier New', Courier, serif;
+    font-style: normal;
+    font-size: 100px;
+    font-weight: bolder; 
+}
+
+p{
+    text-indent: 40px;
+    text-align: left;
+    text-decoration: burlywood;
+    text-transform: capitalize;
+=======
+body {
+    background-color: salmon;
+}
+
+h1 {
+    font-family: 'Courier New', Courier, serif;
+    font-style: normal;
+    font-size: 100px;
+    font-weight: bolder; 
+}
+
+p{
+    text-indent: 40px;
+    text-align: left;
+    text-decoration: burlywood;
+    text-transform: capitalize;
+>>>>>>> 7f81d668fc6b17c8a1ea5c2171f490440e28a2f7
+}
